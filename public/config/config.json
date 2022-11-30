@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x89592b7E5E98158B1106dFE9CC54f5608988F7D4",
+  "SCAN_LINK": "https://memescan.io/token/0x89592b7E5E98158B1106dFE9CC54f5608988F7D4",
+  "NETWORK": {
+    "NAME": "Proof of Meme",
+    "SYMBOL": "POM",
+    "ID": 18159
+  },
+  "NFT_NAME": "PomQ diamond tier NFT",
+  "SYMBOL": "PomQ diamond tier NFT",
+  "MAX_SUPPLY": 500,
+  "WEI_COST": "400000000000000000000",
+  "DISPLAY_COST": 400,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "",
+  "MARKETPLACE_LINK": "",
+  "SHOW_BACKGROUND": true
+}
